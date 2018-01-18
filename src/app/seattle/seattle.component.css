@@ -1,0 +1,37 @@
+.backgroundSEA{
+    border: 2px solid black;
+    width: 996px;
+    height: 296px;
+    padding: 20px;
+    text-align: center;
+    vertical-align: top;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.backgroundSEA h1{
+    margin: 0 auto;
+}
+
+.split{
+    text-align: left;
+    width: 496px;
+    height: 200px;
+    display: inline-block;
+}
+.split2{
+    text-align: right;
+    width: 496px;
+    height: 200px;    
+    display: inline-block;
+}
+
+.split2 img{
+    width: 396px;
+    height: 200px;
+}
+.split p{
+    font-size: 100%;
+    font-weight: bold;
+    font-size: 18px;
+}

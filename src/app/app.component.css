@@ -1,0 +1,24 @@
+.background{
+    border: 2px solid black;
+    width: 1046px;
+    height: 446px;
+    padding: 20px;
+    text-align: center;
+    background-image: url(../weather.jpg);
+}
+
+button {
+    background-color: silver;
+    color: black;
+    border: 2px solid silver;
+    width: 120px;
+    font-size: 16px;
+}
+
+button:hover {background-color: #e7e7e7;}
+
+button:active {
+    background-color: silver;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
